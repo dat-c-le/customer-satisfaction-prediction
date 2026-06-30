@@ -23,7 +23,7 @@ Five CSV files are used across the analysis:
 ## Project Structure
 
 ```
-├── Exam.ipynb                  # Main Jupyter Notebook with full analysis
+├── predictive_modeling.ipynb   # Main Jupyter Notebook with full analysis
 ├── customer1.csv
 ├── customer2.csv
 ├── activity.csv
@@ -94,4 +94,4 @@ Five CSV files are used across the analysis:
    ```bash
    pip install pandas matplotlib seaborn statsmodels scikit-learn
    ```
-3. Open `Exam.ipynb` in Jupyter and run all cells top to bottom
+3. Open `predictive_modeling.ipynb` in Jupyter and run all cells top to bottom
